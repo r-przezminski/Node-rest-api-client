@@ -1,0 +1,12 @@
+{
+    "extends": "airbnb",
+    "rules": {
+      "react/prefer-stateless-function": "off",
+      "arrow-parens": "off",
+      "react/forbid-prop-types": "off"
+    },
+    "globals": {
+      "document": true,
+      "fetch": true
+    }
+}
